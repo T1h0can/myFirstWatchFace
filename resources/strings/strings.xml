@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">mywatchface</string>
+    
+    <string id="hourColorTitle">Hour Color</string>
+    <string id="minuteColorTitle">Minute Color</string>
+    
+    <string id="ColorDefault">Default</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorLTGray">Light gray</string>
+    <string id="ColorDKGray">Dark gray</string>
+    <string id="ColorBlack">Black</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDKRed">Dark red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorDKGreen">Dark green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorDKBlue">Dark blue</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string>
+</strings>

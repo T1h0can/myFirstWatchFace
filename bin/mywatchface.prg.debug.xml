@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="14" pc="268435456" symbol="initialize"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="19" pc="268435479" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="21" pc="268435483" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="22" pc="268435526" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="23" pc="268435569" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="24" pc="268435598" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="27" pc="268435628" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="28" pc="268435632" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="29" pc="268435660" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="31" pc="268435667" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="32" pc="268435685" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="35" pc="268435709" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="41" pc="268435812" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="44" pc="268435830" symbol="getDefaultProperty"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="47" pc="268435834" symbol="getColor"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="48" pc="268435838" symbol="getColor"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="49" pc="268435866" symbol="getColor"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="50" pc="268435877" symbol="getColor"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="52" pc="268435884" symbol="getColor"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="56" pc="268435888" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="57" pc="268435892" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="58" pc="268435928" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="60" pc="268435940" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="61" pc="268435957" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="62" pc="268435967" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="63" pc="268435992" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="64" pc="268436003" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="67" pc="268436019" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="68" pc="268436055" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="69" pc="268436087" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="70" pc="268436145" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="71" pc="268436181" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="72" pc="268436213" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="74" pc="268436277" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="75" pc="268436294" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="76" pc="268436304" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="77" pc="268436329" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="78" pc="268436365" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="80" pc="268436440" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="81" pc="268436476" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="83" pc="268436551" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="84" pc="268436587" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="86" pc="268436668" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="87" pc="268436704" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="89" pc="268436785" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="90" pc="268436821" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="92" pc="268436871" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="93" pc="268436907" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="100" pc="268436976" symbol="onShow"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="106" pc="268436981" symbol="onHide"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="110" pc="268436986" symbol="onExitSleep"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceView.mc" lineNum="114" pc="268436991" symbol="onEnterSleep"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="5" pc="268436996" symbol="initialize"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="6" pc="268437000" symbol="initialize"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="10" pc="268437019" symbol="onStart"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="14" pc="268437024" symbol="onStop"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="18" pc="268437029" symbol="getInitialView"/>
+<entry filename="E:\\workspace1\\mywatchface\\source\\mywatchfaceApp.mc" lineNum="19" pc="268437033" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="37" pc="268437071" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268437075" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268437238" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268437263" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="42" pc="268437315" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="45" pc="268437361" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="20" symbol="ColorDKGray"/>
+<entry field="true" id="33" symbol="hourColor"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="36" method="true" symbol="getColor"/>
+<entry field="true" id="16" symbol="ColorBlue"/>
+<entry field="true" id="27" symbol="hourColorTitle"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="17" symbol="ColorLTGray"/>
+<entry field="true" id="21" symbol="ColorOrange"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="32" symbol="ColorGreen"/>
+<entry field="true" id="15" symbol="ColorDKBlue"/>
+<entry field="true" id="22" symbol="ColorYellow"/>
+<entry field="true" id="31" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="19" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="29" symbol="ColorPink"/>
+<entry field="true" id="25" symbol="ColorRed"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="24" symbol="ColorDKGreen"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="13" symbol="customNum_100"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="9" object="true" symbol="mywatchfaceApp"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="18" symbol="ColorDKRed"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8" object="true" symbol="mywatchfaceView"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="14" symbol="customIcon"/>
+<entry field="true" id="34" symbol="minuteColor"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="35" method="true" symbol="getDefaultProperty"/>
+<entry field="true" id="26" symbol="minuteColorTitle"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="30" symbol="ColorDefault"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="28" symbol="ColorPurple"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435833" name="value" stackId="3" startPc="268435632"/>
+<entry endPc="268435887" name="Color" stackId="3" startPc="268435838"/>
+<entry endPc="268436975" name="hour" stackId="3" startPc="268435892"/>
+<entry endPc="268436975" name="deviceStats" stackId="4" startPc="268435892"/>
+<entry endPc="268436975" name="clockTime" stackId="2" startPc="268435892"/>
+<entry endPc="268436975" name="batteryLife" stackId="5" startPc="268435892"/>
+<entry endPc="268437378" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268437075"/>
+<entry endPc="268437378" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268437075"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="mywatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="mywatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getDefaultProperty" parent="mywatchfaceView">
+<param id="keyWord"/>
+<param id="defaultNum"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getColor" parent="mywatchfaceView">
+<param id="keyWord"/>
+<param id="defaultColor"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="mywatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="mywatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="mywatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="mywatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="mywatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="mywatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="mywatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="mywatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="mywatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

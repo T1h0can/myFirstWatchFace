@@ -1,0 +1,41 @@
+<settings>
+	<setting propertyKey="@Properties.hourColor" title="@Strings.hourColorTitle">
+		<settingConfig type="list">
+			<listEntry value="999">@Strings.ColorDefault</listEntry>
+			<listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+			<listEntry value="0xAAAAAA">@Strings.ColorLTGray</listEntry>
+			<listEntry value="0x555555">@Strings.ColorDKGray</listEntry>
+			<listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+			<listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+			<listEntry value="0xAA0000">@Strings.ColorDKRed</listEntry>
+			<listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
+			<listEntry value="0xFFAA00">@Strings.ColorYellow</listEntry>
+			<listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+			<listEntry value="0x00AA00">@Strings.ColorDKGreen</listEntry>
+			<listEntry value="0x00AAFF">@Strings.ColorBlue</listEntry>
+			<listEntry value="0x0000FF">@Strings.ColorDKBlue</listEntry>
+			<listEntry value="0x5500AA">@Strings.ColorPurple</listEntry>
+			<listEntry value="0xFF00FF">@Strings.ColorPink</listEntry>
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.minuteColor" title="@Strings.minuteColorTitle">
+		<settingConfig type="list">
+			<listEntry value="999">@Strings.ColorDefault</listEntry>
+			<listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+			<listEntry value="0xAAAAAA">@Strings.ColorLTGray</listEntry>
+			<listEntry value="0x555555">@Strings.ColorDKGray</listEntry>
+			<listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+			<listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+			<listEntry value="0xAA0000">@Strings.ColorDKRed</listEntry>
+			<listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
+			<listEntry value="0xFFAA00">@Strings.ColorYellow</listEntry>
+			<listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+			<listEntry value="0x00AA00">@Strings.ColorDKGreen</listEntry>
+			<listEntry value="0x00AAFF">@Strings.ColorBlue</listEntry>
+			<listEntry value="0x0000FF">@Strings.ColorDKBlue</listEntry>
+			<listEntry value="0x5500AA">@Strings.ColorPurple</listEntry>
+			<listEntry value="0xFF00FF">@Strings.ColorPink</listEntry>
+		</settingConfig>
+	</setting>
+</settings>

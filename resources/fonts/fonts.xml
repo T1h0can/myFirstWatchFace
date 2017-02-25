@@ -1,0 +1,4 @@
+<fonts>
+	<font id="customNum_100" filename="customNum_100.fnt" filter="01234567890:" />
+	<font id="customIcon" filename="customIcon.fnt" filter="ABCDEFGH" />
+</fonts>
